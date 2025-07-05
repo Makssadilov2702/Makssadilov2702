@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Maksim  
+**Junior Data Analyst** | Python | SQL | BI Tools  
 
-<!--
-**Makssadilov2702/Makssadilov2702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 **Technical Skills**  
+- **Python (Basic):** Pandas, NumPy, Matplotlib, Seaborn  
+- **SQL (Basic):** PostgreSQL queries, joins, aggregations  
+- **BI Tools (Familiar):** Datalens (Yandex), KNIME, Loginom  
+- **Machine Learning (Introductory):** Scikit-learn, XGBoost  
+- **Automation (Basic):** MitoSheet, ClustATI  
 
-Here are some ideas to get you started:
+### 🎓 **Education**  
+Data Analytics Certificate - Sechenov University Digital Department  
+• Covered fundamentals of EDA, data visualization, and ML basics  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📩 **Contact**  
+[Telegram](@maks_sad) 
