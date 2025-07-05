@@ -13,4 +13,4 @@ Data Analytics Certificate - Sechenov University Digital Department
 • Covered fundamentals of EDA, data visualization, and ML basics  
 
 ### 📩 **Contact**  
-[Telegram](@maks_sad) 
+[Telegram]((https://t.me/maks_sad)) 
