@@ -9,7 +9,7 @@
 - **Automation (Basic):** MitoSheet, ClustATI  
 
 ### 🎓 **Education**  
-Data Analytics Certificate - Sechenov University Digital Department  
+Data Analytics Certificate - Sechenov University Digital Department (2025)
 • Covered fundamentals of EDA, data visualization, and ML basics  
 
 ### 📩 **Contact**  
